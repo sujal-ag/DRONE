@@ -52,7 +52,7 @@ git clone https://github.com/sujal-ag/DRONE.git
 cd DRONE
 
 # Follow the tutorials in order
-# Start with: Tutorials/Tutorial1.md
+# Start with: Tutorials(1-6)/Tutorial1.md
 ```
 
 ---
