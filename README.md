@@ -60,12 +60,12 @@ cd DRONE
 ## Tutorial Series
 
 ### Core Setup Tutorials
-1. **[Tutorial1.md](Tutorials/Tutorial1.md)** - System Overview of Autonomous Drones
-2. **[Tutorial2.md](Tutorials/Tutorial2.md)** - Installing ArduPilot & Running SITL
-3. **[Tutorial3.md](Tutorials/Tutorial3.md)** - Installing and Using QGroundControl
-4. **[Tutorial4.md](Tutorials/Tutorial4.md)** - Installing Gazebo and ArduPilot Plugin
-5. **[Tutorial5.md](Tutorials/Tutorial5.md)** - Installing ROS & Catkin Workspace Setup
-6. **[Tutorial6.md](Tutorials/Tutorial6.md)** - ROS Basics, Topics, and Accessing Drone Telemetry
+1. **[Tutorial1.md](Tutorials(1-6)/Tutorial1.md)** - System Overview of Autonomous Drones
+2. **[Tutorial2.md](Tutorials(1-6)/Tutorial2.md)** - Installing ArduPilot & Running SITL
+3. **[Tutorial3.md](Tutorials(1-6)/Tutorial3.md)** - Installing and Using QGroundControl
+4. **[Tutorial4.md](Tutorials(1-6)/Tutorial4.md)** - Installing Gazebo and ArduPilot Plugin
+5. **[Tutorial5.md](Tutorials(1-6)/Tutorial5.md)** - Installing ROS & Catkin Workspace Setup
+6. **[Tutorial6.md](Tutorials(1-6)/Tutorial6.md)** - ROS Basics, Topics, and Accessing Drone Telemetry
 
 **[Tutorials-Summary.md](Tutorials/Tutorials-Summary.md)** - Quick reference guide for all tutorials
 
