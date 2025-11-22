@@ -67,7 +67,7 @@ cd DRONE
 5. **[Tutorial5.md](Tutorials(1-6)/Tutorial5.md)** - Installing ROS & Catkin Workspace Setup
 6. **[Tutorial6.md](Tutorials(1-6)/Tutorial6.md)** - ROS Basics, Topics, and Accessing Drone Telemetry
 
-**[Tutorials-Summary.md](Tutorials/Tutorials-Summary.md)** - Quick reference guide for all tutorials
+**[Tutorials-Summary.md](Tutorials(1-6)/Tutorials-Summary.md)** - Quick reference guide for all tutorials
 
 ### Programming Tutorials (Coming Soon)
 7. **Writing Your First Autonomous Script** - Python ROS nodes
