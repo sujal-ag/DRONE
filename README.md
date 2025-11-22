@@ -109,24 +109,13 @@ DRONE/
 
 ---
 
-## Video Tutorials
-
-Each tutorial has an accompanying video walkthrough:
-
-- **[Video Playlist](https://youtube.com/playlist/your-playlist-link)** - Complete series
-- **Individual videos linked in each tutorial document**
-
-**Subscribe for updates as new tutorials are released!**
-
----
-
 ## Installation
 
 ### Manual Setup (Recommended)
 Follow the tutorials in order for detailed, step-by-step installation:
-1. [ArduPilot Installation](Tutorials/Tutorial2.md)
-2. [Gazebo Setup](Tutorials/Tutorial4.md)
-3. [ROS & MAVROS Installation](Tutorials/Tutorial5.md)
+1. [ArduPilot Installation](Tutorials(1-6)/Tutorial2.md)
+2. [Gazebo Setup](Tutorials(1-6)/Tutorial4.md)
+3. [ROS & MAVROS Installation](Tutorials(1-6)/Tutorial5.md)
 
 > **Note:** Automated installation scripts coming soon!
 
