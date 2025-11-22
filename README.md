@@ -197,7 +197,7 @@ rostopic echo /mavros/state
 # Should show connected: True
 ```
 
-**More solutions in:** [Tutorials/Tutorials-Summary.md](Tutorials/Tutorials-Summary.md)
+**More solutions in:** [Tutorials/Tutorials-Summary.md](Tutorials(1-6)/Tutorials-Summary.md)
 
 ---
 
